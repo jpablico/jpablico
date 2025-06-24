@@ -29,5 +29,5 @@ A Chrome extension to assist with bulk alert management during mass failure even
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn](www.linkedin.com/in/josh-pablico-618108220)
 - 📫 jpablico27@gmail.com
