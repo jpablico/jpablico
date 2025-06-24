@@ -17,6 +17,8 @@ A React + Tailwind CSS tool for logging cabinet power usage with randomized samp
 ---
 
 ### Ubersmith Auto-Ticket Closer  
+![Ubersmith Gif](assets/demoubersmithext.gif)
+*Demonstration of ticket validation and multi-ticket closure in a live alert scenario.*
 A Chrome extension to assist with bulk alert management during mass failure events. Reduces closure time by streamlining ticket validation and handling.  
 
 [GitHub Repository](https://github.com/jpablico/Ubersmith-Alert-Helper-Extension)
@@ -57,12 +59,40 @@ A JavaScript-based Battleship game built as part of The Odin Project curriculum,
 
 ## 🏷️ Badges
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)  
-![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)  
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)  
-![Proxmox](https://img.shields.io/badge/Platform-Proxmox-informational?style=flat&logo=proxmox)  
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)  
+![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)  
+![Bash](https://img.shields.io/badge/Scripting-Bash-black?logo=gnubash)  
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell)  
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible)  
-![CCNA](https://img.shields.io/badge/Cert-CCNA-in_progress-orange?style=flat&logo=cisco)
+
+### Frontend & Styling
+![React](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react)  
+![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwindcss)  
+![HTML](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5)  
+![CSS](https://img.shields.io/badge/Styling-CSS3-1572B6?logo=css3)  
+![SASS](https://img.shields.io/badge/Styling-SASS-CC6699?logo=sass)  
+![Vite](https://img.shields.io/badge/Tooling-Vite-purple?logo=vite)  
+
+### Backend & Tools
+![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)  
+![Chrome Extension](https://img.shields.io/badge/Platform-Chrome_Extension-lightgrey?logo=googlechrome)  
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=nodedotjs)  
+![Ubersmith](https://img.shields.io/badge/Tool-Ubersmith-lightgrey)  
+![Zendesk](https://img.shields.io/badge/Tool-Zendesk-lightgrey)  
+![Hostbill](https://img.shields.io/badge/Tool-Hostbill-lightgrey)  
+
+### Platforms & OS
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)  
+![Linux CLI](https://img.shields.io/badge/Shell-Linux_CLI-grey?logo=gnu-bash)  
+![Proxmox](https://img.shields.io/badge/Platform-Proxmox-informational?style=flat&logo=proxmox)  
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)  
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu)  
+![Debian](https://img.shields.io/badge/OS-Debian-A81D33?logo=debian)  
+
+### Certifications
+![CCNA](https://img.shields.io/badge/Cert-CCNA--In--Progress-orange)  
 
 ---
 
