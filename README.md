@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Josh Pablico
 
-<!--
-**jpablico/jpablico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Center Technician | Aspiring Network Engineer | Automation-Oriented Builder
 
-Here are some ideas to get you started:
+I'm currently a Data Center Technician at **Cloud Key**, where I focus on hardware provisioning, infrastructure uptime, and building internal tools that improve workflow efficiency. I also study networking (CCNA in progress) and spend time developing web tools and browser extensions that support data center operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Featured Projects
+
+### Power Audit Web Tool  
+A React + Tailwind CSS tool for logging cabinet power usage with randomized sampling and CSV export functionality. Designed to improve data consistency and reduce manual entry effort.
+![Power Audit Cover](assets/GIP-PowerAuditCover.png)
+[GitHub Repository](https://github.com/jpablico/GIP-Power-Audit)
+
+### Ubersmith Auto-Ticket Closer  
+A Chrome extension to assist with bulk alert management during mass failure events. Reduces closure time by streamlining ticket validation and handling.
+[GitHub Repository](https://github.com/jpablico/Ubersmith-Alert-Helper-Extension)
+
+---
+
+## 📚 Currently Learning
+
+- Cisco CCNA (Networking, VLANs, Subnetting, Routing)
+- Golang (for backend scripting and CloudKey extensions)
+- Docker and Proxmox (Homelab setup and automation)
+
+---
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 jpablico27@gmail.com
